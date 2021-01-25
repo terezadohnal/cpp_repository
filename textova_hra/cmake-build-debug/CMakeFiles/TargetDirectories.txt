@@ -1,0 +1,3 @@
+/Users/terezadohnalova/Desktop/gitRepository/cpp_repository/textova_hra/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/terezadohnalova/Desktop/gitRepository/cpp_repository/textova_hra/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/terezadohnalova/Desktop/gitRepository/cpp_repository/textova_hra/cmake-build-debug/CMakeFiles/Projekt_ZOO.dir
